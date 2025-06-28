@@ -1,0 +1,21 @@
+{
+  "name": "coin",
+  "version": "1.0.0",
+  "main": "app.js",
+  "bin": "./bin/coin.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "description": "",
+  "dependencies": {
+    "axios": "^1.10.0",
+    "colors": "^1.4.0",
+    "commander": "^14.0.0",
+    "configstore": "^5.0.1",
+    "figlet": "^1.8.1",
+    "inquirer": "^8.2.4"
+  }
+}
